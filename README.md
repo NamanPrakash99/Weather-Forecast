@@ -12,9 +12,6 @@ The **Weather Dashboard** is a React-based web application that provides real-ti
 - **Smooth animations** using Framer Motion
 - **Deployed on GitHub Pages** for easy access
 
-## 🖼️ Screenshots
-![Weather Dashboard Preview](./screenshots/weather-dashboard.png)
-
 ## 🔧 Technologies Used
 - **Frontend**: React.js, Tailwind CSS, Framer Motion
 - **API**: OpenWeatherMap API
@@ -43,15 +40,8 @@ To run the project locally, follow these steps:
    npm run dev
    ```
 
-## 🌐 Deployment on GitHub Pages
-To deploy the app on **GitHub Pages**, run:
-```sh
-npm run deploy
-```
-Your app will be live at:
-```
-https://NamanPrakash99.github.io/weather-dashboard
-```
+## Deployment on Vercel
+Deployment Link- 
 
 ## 🔑 API Key Setup
 This project requires an **OpenWeatherMap API key**. Get one from [OpenWeatherMap](https://openweathermap.org/api) and add it to your `.env` file:
