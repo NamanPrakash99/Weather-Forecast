@@ -41,7 +41,7 @@ To run the project locally, follow these steps:
    ```
 
 ## Deployment on Vercel
-Deployment Link- 
+Deployment Link- https://weather-forecast-sage-five.vercel.app/
 
 ## 🔑 API Key Setup
 This project requires an **OpenWeatherMap API key**. Get one from [OpenWeatherMap](https://openweathermap.org/api) and add it to your `.env` file:
